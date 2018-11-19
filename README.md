@@ -1,6 +1,6 @@
 Repositories for the Wattom plug 
 
-~Arduino-EnergyLab-Led :~ Arduino code which receives commands from the intel edison microrpocessor (using I2C) and adjusts the colors of a neo pixel ring accordingly
+_Arduino-EnergyLab-Led :_ Arduino code which receives commands from the intel edison microrpocessor (using I2C) and adjusts the colors of a neo pixel ring accordingly
 
 EnergyMonitorPython-master : Python module responsible for measuring the electricity consumption and events, and communicating with Arduino module to change the LED colors. This modules also interacts with a Relay to cut the flow of electricity
 
