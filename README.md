@@ -1,6 +1,6 @@
 # Repositories for the Wattom plug
 
-![Wattom plug](https://gitlab.m-iti.org/wattom/wattom-arduino-edison/blob/master/renew_bad.png "Wattom plug")
+![Wattom plug](renew_bad.png "Wattom plug")
 
 ### Arduino-EnergyLab-Led :
 Arduino code which receives commands from the intel edison microrpocessor (using I2C) and adjusts the colors of a neo pixel ring accordingly
