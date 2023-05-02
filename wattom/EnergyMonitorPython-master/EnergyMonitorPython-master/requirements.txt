@@ -5,5 +5,5 @@ grequests==0.3.0
 eventlet==0.31.0
 Flask-SocketIO==5.3.3
 zeroconf==0.47.4
-Flask==2.2.3
+Flask==2.3.2
 
