@@ -4,6 +4,6 @@ async-timeout==4.0.3
 grequests==0.7.0
 eventlet==0.37.0
 Flask-SocketIO==5.3.7
-zeroconf==0.135.0
+zeroconf==0.145.1
 Flask==3.0.3
 
